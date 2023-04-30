@@ -1,0 +1,12 @@
+/public
+/node_modules
+.DS_Store
+*.blend?*
+*.Identifier
+.firebase
+*.log
+
+stats.html
+shader_code.h
+
+/tmp

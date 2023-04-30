@@ -1,0 +1,9 @@
+uniform mat4 modelMatrix;
+uniform mat4 viewMatrix;
+uniform mat4 projectionMatrix;
+uniform mat4 normalMatrix;
+out vec2 vUv;
+out vec3 vViewNormal;
+out vec3 vNormal;
+out vec3 vMVPosition;
+out vec3 vPos;

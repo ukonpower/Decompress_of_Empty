@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"lib": ["ESNext", "DOM"],
+		"moduleResolution": "Node",
+		"strict": true,
+		"sourceMap": true,
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"allowSyntheticDefaultImports": true,
+		"noEmit": true,
+		"rootDir": "./",
+		"baseUrl": ".",
+		"paths": {
+		  "glpower" : ["./packages/glpower/src"]
+		}
+	},
+}

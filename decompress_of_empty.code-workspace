@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".",
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"**/src/ts/libs/glpower/src": true,
+			"**/src/ts/libs/glpower/tests": true,
+			"**/src/ts/libs/glpower/jest": true,
+			"**/src/ts/libs/glpower/**/*.d.ts": true,
+			"**/src/ts/libs/glpower/**/*.d.ts*": true,
+		},
+		"editor.detectIndentation": false,
+		"editor.insertSpaces": false,
+		"editor.tabSize": 4,
+		"editor.codeActionsOnSave": {
+			"source.fixAll.eslint": true,
+			"source.addMissingImports": true
+		}
+	}
+}
