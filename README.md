@@ -1,10 +1,10 @@
 # Decompress of Empty
 
-実行できるページはこのあとどっかあげます
-
 Sessions PC64K Intro
 
 ![](./screenshot/decompress_of_empty.png)
+## Watch the demo!  
+[ukonpower.github.io/Decompress_of_Empty/](https://ukonpower.github.io/Decompress_of_Empty/)
 
 ## Install
 
@@ -21,4 +21,10 @@ npm install
 
 ```
 npm run dev
+```
+
+## Build
+
+```
+npm run build
 ```
