@@ -8,9 +8,6 @@ void main( void ) {
 
 	#include <deferred_in>
 
-
-	float dnv = dot( normal, -rayDir );
-
 	// outEmission += smoothstep( 0.5, 1.0, dot( vViewNormal, normalize( -vMVPosition ) ) );
 	// outEmission += dot( vViewNormal, normalize( -vMVPosition ) );
 
